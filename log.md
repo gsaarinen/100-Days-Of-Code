@@ -6,7 +6,7 @@
 
 **Time Logged:** 2 hours
 
-**Thoughts:** Feels good to commit to this. The RoR tutorial is coming along well and I think the Treehouse stuff will be great a filler for times when it's hard to get learning in. Also, this will help me get my person Jeykll site finally up and running. 👍🏻
+**Thoughts:** Feels good to commit to this. The RoR tutorial is coming along well and I think the Treehouse stuff will be great a filler for times when it's hard to get learning in. Also, this will help me get my personal Jeykll site finally up and running. 👍🏻
 
 **Link to work:** [Cloud9 link](https://ide.c9.io/garret_s/rails5-tutortial)
 
