@@ -33,3 +33,11 @@ Also frustrated that it took me about 10 minutes to figure out why my form wasn'
 ...but should have been
 `<%= form_for(@user) do |f| %>`
 Oh how much of a difference an equal sign makes lol!
+
+### Day 4: January 4th, 2017
+
+**Today's Progress:** Continued Ch. 7 of the Rails tutorial. Started getting into `params` on objects and it's starting to make sense how they are worked in HTTP requests.
+
+**Time Logged:** 1 hour
+
+**Thoughts:** Tough to get the time in today but still did it. So much to do - so little time. Glad I still kept the streak going. the idea of `:params` is starting to make sense as it was something that really escaped me before. 
