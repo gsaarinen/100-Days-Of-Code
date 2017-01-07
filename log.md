@@ -49,3 +49,19 @@ Oh how much of a difference an equal sign makes lol!
 **Time Logged:** .75 hours
 
 **Thoughts:** OOoooof. Today was particularly hard to find time. Spent a lot of the evening finishing a report for work. But, I still pushed through and got some time in. While today's time does come slightly under the 1 hr per day commitment I made - I'm still pretty proud that I pushed through and still did some work. 👊🏻
+
+### Day 6: January 6th, 2017
+
+**Today's Progress:** Continued Ch. 7 of the Rails tutorial at Code Club.
+
+**Time Logged:** .75 hours
+
+**Thoughts:** Was able to get in time at work during our Code Club meeting which will be really helpful on Friday's. Ch. 7 is starting to stretch my technical knowledge but I really like it as it's pushing me. I'm really starting to understand how some of the general aspects of a rails web applications works.
+
+### Day 7: January 7th, 2017
+
+**Today's Progress:** Continued Ch. 7 of the Rails tutorial at my parents.
+
+**Time Logged:** 1 hour
+
+**Thoughts:** Brought my laptop to my parents this weekend so I could continue my streak while on vacation. Wrote test today on user signup validation and error handling. The exercises are starting to get more vague but I've still been able to figure them out. It's giving me more confidence. 😎
