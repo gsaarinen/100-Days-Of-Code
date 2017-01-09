@@ -65,3 +65,11 @@ Oh how much of a difference an equal sign makes lol!
 **Time Logged:** 1 hour
 
 **Thoughts:** Brought my laptop to my parents this weekend so I could continue my streak while on vacation. Wrote test today on user signup validation and error handling. The exercises are starting to get more vague but I've still been able to figure them out. It's giving me more confidence. 😎
+
+### Day 8: January 8th, 2017
+
+**Today's Progress:** Continued Ch. 7 of the Rails tutorial, left off at section 7.4.4.
+
+**Time Logged:** 1 hour
+
+**Thoughts:** Finished getting a successful user signup workflow going in the rails app. Started to understand how you would use `flash[:success]` when confirming a successful signup. 
