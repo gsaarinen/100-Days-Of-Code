@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 12th, 2017
+
+**Today's Progress:** Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login) and just got a little done on getting the log in view setup.
+
+**Time Logged:** .75 hour
+
+**Thoughts:** Tried to get as much done at work as I could today with my evening being shot by the St. Paul Chamber of Commerce Ypro event. Will try to get additional time in tomorrow.  
+
 ### Day 11: January 11th, 2017
 
 **Today's Progress:** Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login) but went a little down a rabbit hole with all the command line stuff that was referenced in [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial#sec-grepping) and dove into `grep`.
