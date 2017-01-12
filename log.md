@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 11th, 2017
+
+**Today's Progress:** Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login) but went a little down a rabbit hole with all the command line stuff that was referenced in [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial#sec-grepping) and dove into `grep`.
+
+**Time Logged:** 1.25 hour
+
+**Thoughts:** As stated above - didn't complete as much on the actual rails tutorial but really got a better understanding of some command line tools such as `grep` and piping. This stuff was really fun and I created a second sheet to my [logged time google doc](https://docs.google.com/spreadsheets/d/1LGlyuXYwp8y4BxjdkXA4ZEqx3cXMPsKAAetAKwWtrAg/edit#gid=1630023459) that lists future docs in my "curriculum" and the [Learn Enough Command Line ...](https://www.learnenough.com/command-line-tutorial#sec-basics) just made the list! Reminds me of the time back in 2011(?) that I rented a Unix book from the library and started to really like it. Just think about how far I could be now if I would of stuck with it then!
+
+
 ### Day 10: January 10th, 2017
 
 **Today's Progress:** Back to the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login) and was able to finish Ch. 7 which focused on user sign up.
