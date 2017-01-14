@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 13th, 2017
+
+**Today's Progress:** Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login). Finished the failed log in section and started working on how to get a user successfully logged in. Also, looked into a little more about Markdown and have updated the log.md file.
+
+**Time Logged:** 1.15 hour
+
+**Thoughts:** Man - I ran into another testing issues *(that I was able to figure out)* and it ate up about 20 mins of my time. And get this - I was just missing **a single S**. Check this out, this is what I had:
+```Ruby
+post login_path, params: { sessions: { email: "", password: "" } }
+```
+and this is what I should of had:
+```Ruby
+post login_path, params: { session: { email: "", password: "" } }
+```
+Did you catch that? Yup - I had `sessions:` instead of `session:`. That was 20 minutes right there. Coding is fun sometimes 😐. But honestly, it was a good nights work.
+
+--------
+
 ### Day 12: January 12th, 2017
 
 **Today's Progress:** Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login) and just got a little done on getting the log in view setup.
@@ -7,6 +25,8 @@
 **Time Logged:** .75 hour
 
 **Thoughts:** Tried to get as much done at work as I could today with my evening being shot by the St. Paul Chamber of Commerce Ypro event. Will try to get additional time in tomorrow.  
+
+--------
 
 ### Day 11: January 11th, 2017
 
@@ -16,6 +36,7 @@
 
 **Thoughts:** As stated above - didn't complete as much on the actual rails tutorial but really got a better understanding of some command line tools such as `grep` and piping. This stuff was really fun and I created a second sheet to my [logged time google doc](https://docs.google.com/spreadsheets/d/1LGlyuXYwp8y4BxjdkXA4ZEqx3cXMPsKAAetAKwWtrAg/edit#gid=1630023459) that lists future docs in my "curriculum" and the [Learn Enough Command Line ...](https://www.learnenough.com/command-line-tutorial#sec-basics) just made the list! Reminds me of the time back in 2011(?) that I rented a Unix book from the library and started to really like it. Just think about how far I could be now if I would of stuck with it then!
 
+--------
 
 ### Day 10: January 10th, 2017
 
@@ -25,6 +46,8 @@
 
 **Thoughts:** It was a pretty technical chapter but I was grasp a large chunk of it. I think at some point I should go back and review it all. Throughout most of the exercises I was able to get them figured out on the first try so - WOOHOO me 😉.
 
+--------
+
 ### Day 9: January 9th, 2017
 
 **Today's Progress:** Focused on the Ruby Basics tutorials on Treehouse.com.
@@ -32,6 +55,8 @@
 **Time Logged:** 1 hour
 
 **Thoughts:** It was nice to change it up today a little and get into more of the core Ruby. This is a core area that I need to focus on and once the Hartl RoR tutorial is done I think I'm going to split my time between personal projects and basic Ruby stuff.
+
+--------
 
 ### Day 8: January 8th, 2017
 
@@ -41,6 +66,8 @@
 
 **Thoughts:** Finished getting a successful user signup workflow going in the rails app. Started to understand how you would use `flash[:success]` when confirming a successful signup.
 
+--------
+
 ### Day 7: January 7th, 2017
 
 **Today's Progress:** Continued Ch. 7 of the Rails tutorial at my parents.
@@ -48,6 +75,8 @@
 **Time Logged:** 1 hour
 
 **Thoughts:** Brought my laptop to my parents this weekend so I could continue my streak while on vacation. Wrote test today on user signup validation and error handling. The exercises are starting to get more vague but I've still been able to figure them out. It's giving me more confidence. 😎
+
+--------
 
 ### Day 6: January 6th, 2017
 
@@ -57,6 +86,8 @@
 
 **Thoughts:** Was able to get in time at work during our Code Club meeting which will be really helpful on Friday's. Ch. 7 is starting to stretch my technical knowledge but I really like it as it's pushing me. I'm really starting to understand how some of the general aspects of a rails web applications works.
 
+--------
+
 ### Day 5: January 5th, 2017
 
 **Today's Progress:** Continued Ch. 7 of the Rails tutorial.
@@ -65,6 +96,8 @@
 
 **Thoughts:** OOoooof. Today was particularly hard to find time. Spent a lot of the evening finishing a report for work. But, I still pushed through and got some time in. While today's time does come slightly under the 1 hr per day commitment I made - I'm still pretty proud that I pushed through and still did some work. 👊🏻
 
+--------
+
 ### Day 4: January 4th, 2017
 
 **Today's Progress:** Continued Ch. 7 of the Rails tutorial. Started getting into `params` on objects and it's starting to make sense how they are worked in HTTP requests.
@@ -72,6 +105,8 @@
 **Time Logged:** 1 hour
 
 **Thoughts:** Tough to get the time in today but still did it. So much to do - so little time. Glad I still kept the streak going. the idea of `:params` is starting to make sense as it was something that really escaped me before.
+
+--------
 
 ### Day 3: January 3rd, 2017
 
@@ -87,6 +122,8 @@ Also frustrated that it took me about 10 minutes to figure out why my form wasn'
 `<%= form_for(@user) do |f| %>`
 Oh how much of a difference an equal sign makes lol!
 
+--------
+
 ### Day 2: January 2nd, 2017
 
 **Today's Progress:** Fished Ch. 6 and started Ch. 7 of the Michael Hartl [Ruby on Rails tutorial](https://www.railstutorial.org/book/sign_up). Also, continued some of the Treehouse Ruby tutorials.
@@ -96,6 +133,8 @@ Oh how much of a difference an equal sign makes lol!
 **Thoughts:** Struggled a bit during the day as I tried to get some of my work in with the kids at home but found a lot more free time during the evening.
 
 **Link to work:** [Cloud9 link](https://ide.c9.io/garret_s/rails5-tutortial)
+
+--------
 
 ### Day 1: January 1st, 2017
 
