@@ -2,19 +2,22 @@
 
 ### Day 13: January 13th, 2017
 
-**Today's Progress:** Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login). Finished the failed log in section and started working on how to get a user successfully logged in. Also, looked into a little more about Markdown and have updated the log.md file.
+**Today's Progress:**
+   Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login). Finished the failed log in section and started working on how to get a user successfully logged in. Also, looked into a little more about Markdown and have updated the log.md file.
 
-**Time Logged:** 1.15 hour
+**Time Logged:**
+   1.15 hour
 
-**Thoughts:** Man - I ran into another testing issues *(that I was able to figure out)* and it ate up about 20 mins of my time. And get this - I was just missing **a single S**. Check this out, this is what I had:
-```Ruby
-post login_path, params: { sessions: { email: "", password: "" } }
-```
-and this is what I should of had:
-```Ruby
-post login_path, params: { session: { email: "", password: "" } }
-```
-Did you catch that? Yup - I had `sessions:` instead of `session:`. That was 20 minutes right there. Coding is fun sometimes 😐. But honestly, it was a good nights work.
+**Thoughts:**
+   Man - I ran into another testing issues *(that I was able to figure out)* and it ate up about 20 mins of my time. And get this - I was just missing **a single S**. Check this out, this is what I had:
+   ```Ruby
+   post login_path, params: { sessions: { email: "", password: "" } }
+   ```
+   and this is what I should of had:
+   ```Ruby
+   post login_path, params: { session: { email: "", password: "" } }
+   ```
+   Did you catch that? Yup - I had `sessions:` instead of `session:`. That was 20 minutes right there. Coding is fun sometimes 😐. But honestly, it was a good nights work.
 
 --------
 
