@@ -3,12 +3,15 @@
 ### Day 13: January 13th, 2017
 
 **Today's Progress:**
+
    Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login). Finished the failed log in section and started working on how to get a user successfully logged in. Also, looked into a little more about Markdown and have updated the log.md file.
 
 **Time Logged:**
+
    1.15 hour
 
 **Thoughts:**
+
    Man - I ran into another testing issues *(that I was able to figure out)* and it ate up about 20 mins of my time. And get this - I was just missing **a single S**. Check this out, this is what I had:
    ```Ruby
    post login_path, params: { sessions: { email: "", password: "" } }
