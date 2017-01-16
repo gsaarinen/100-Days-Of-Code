@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 15th, 2017
+
+**Today's Progress:**
+
+   Changed it up and got back into playing around with my "personal site" using Jekyll. The more I play around with that framework, I really like it for static sites.
+
+**Time Logged:**
+
+   1.5 hour
+
+**Thoughts:**
+
+   Inevitably, this all brought me to watching more [DevTips Tutorials](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) on CSS/SASS and that guy is awesome. Seriously, to me he is the Bob Ross of Web Development. Such a great teacher, funny, and genuinely caring. 
+
+--------
+
+
+### Day 14: January 14th, 2017
+
+**Today's Progress:**
+
+   Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login) and then worked on some markdown and Atom stuff. Also poked around the spomodoro project to try and understand more about how it was created.
+
+**Time Logged:**
+
+   1.75 hour
+
+**Thoughts:**
+
+   Today I was able to get more into the user log-in stuff for the rails app - fun stuff. Also dove into how to do some command line stuff with Atom *(my new favorite text editor)* and I now can open files from the command line with just the `atom .` command. Cool stuffs.
+
+--------
+
+
 ### Day 13: January 13th, 2017
 
 **Today's Progress:**
