@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 17th, 2017
+
+**Today's Progress:**
+
+   Finished Ch 8 of the Rails tutorial and now have successful user log in and log out. Also, spent some more time going through the DevTips tutorial "Design + Code".
+
+**Time Logged:**
+
+   2.25
+
+**Thoughts:**
+
+   Felt good to get a large chuck of work done today. Ch 8 of the Rails tutorial seemed to go by pretty quick but I'm sure I will be well suited to go back and revisit it soon. Starting to understand how sites keep track of users being logged in using sessions and how to see them with the developer tools.
+
+   Stating to also get itchy to really dive into updating and creating my own site after watching a lot of the DevTips shows. Need to finish the rails stuff first though!
+   
+--------
+
+
 ### Day 16: January 16th, 2017
 
 **Today's Progress:**
