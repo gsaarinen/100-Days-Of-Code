@@ -20,7 +20,7 @@
 
 **Today's Progress:**
 
-    Changed it up and got back into playing around with my "personal site" using Jekyll. The more I play around with that framework, I really like it for static sites.
+   Changed it up and got back into playing around with my "personal site" using Jekyll. The more I play around with that framework, I really like it for static sites.
 
 **Time Logged:**
 
@@ -37,7 +37,7 @@
 
 **Today's Progress:**
 
-    Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login) and then worked on some markdown and Atom stuff. Also poked around the spomodoro project to try and understand more about how it was created.
+   Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login) and then worked on some markdown and Atom stuff. Also poked around the spomodoro project to try and understand more about how it was created.
 
 **Time Logged:**
 
@@ -45,7 +45,7 @@
 
 **Thoughts:**
 
-    Today I was able to get more into the user log-in stuff for the rails app - fun stuff. Also dove into how to do some command line stuff with Atom *(my new favorite text editor)* and I now can open files from the command line with just the `atom .` command. Cool stuffs.
+   Today I was able to get more into the user log-in stuff for the rails app - fun stuff. Also dove into how to do some command line stuff with Atom *(my new favorite text editor)* and I now can open files from the command line with just the `atom .` command. Cool stuffs.
 
 --------
 
@@ -54,15 +54,15 @@
 
 **Today's Progress:**
 
-    Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login). Finished the failed log in section and started working on how to get a user successfully logged in. Also, looked into a little more about Markdown and have updated the log.md file.
+   Continued Ch 8 of the [Hartl RoR Tutorial](https://www.railstutorial.org/book/basic_login). Finished the failed log in section and started working on how to get a user successfully logged in. Also, looked into a little more about Markdown and have updated the log.md file.
 
 **Time Logged:**
 
-    1.15 hour
+   1.15 hour
 
 **Thoughts:**
 
-    Man - I ran into another testing issues *(that I was able to figure out)* and it ate up about 20 mins of my time. And get this - I was just missing **a single S**. Check this out, this is what I had:
+   Man - I ran into another testing issues *(that I was able to figure out)* and it ate up about 20 mins of my time. And get this - I was just missing **a single S**. Check this out, this is what I had:
    ```Ruby
    post login_path, params: { sessions: { email: "", password: "" } }
    ```
@@ -70,7 +70,7 @@
    ```Ruby
    post login_path, params: { session: { email: "", password: "" } }
    ```
-    Did you catch that? Yup - I had `sessions:` instead of `session:`. That was 20 minutes right there. Coding is fun sometimes 😐. But honestly, it was a good nights work.
+   Did you catch that? Yup - I had `sessions:` instead of `session:`. That was 20 minutes right there. Coding is fun sometimes 😐. But honestly, it was a good nights work.
 
 --------
 
