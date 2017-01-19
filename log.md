@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 18th, 2017
+
+**Today's Progress:**
+
+   Dove into Ch 9 of the rails tutorial and worked on the advanced log in stuff with permanent cookies.
+
+**Time Logged:**
+
+   1.75
+
+**Thoughts:**
+
+   This chapter is really stretching my technical understanding. It's really confusing as it gets into some of the more advanced Ruby stuff as well as how the app is setting up storing the permanent user session id and referencing it in the database. Also, after adding in the code in [Listing 9.9](https://www.railstutorial.org/book/advanced_login#code-persistent_current_user) my test should be red but they are passing. 😳
+
+   Overall - this chapter has me feeling like ...
+
+   ![I have no idea what I'm doing](http://i.imgur.com/QyuQiPD.jpg)
+
+   Might have to just straight up repeat this chapter.
+   
+--------
+
+
 ### Day 17: January 17th, 2017
 
 **Today's Progress:**
@@ -15,7 +38,7 @@
    Felt good to get a large chuck of work done today. Ch 8 of the Rails tutorial seemed to go by pretty quick but I'm sure I will be well suited to go back and revisit it soon. Starting to understand how sites keep track of users being logged in using sessions and how to see them with the developer tools.
 
    Stating to also get itchy to really dive into updating and creating my own site after watching a lot of the DevTips shows. Need to finish the rails stuff first though!
-   
+
 --------
 
 
