@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 19th, 2017
+
+**Today's Progress:**
+
+   Today was all about core ruby with [TeamTreehouse.com](https://teamtreehouse.com/library/ruby-collections/ruby-arrays/ruby-arrays) yo! Do you know about `case`s - because I do!
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Not a ton to add here today. It was nice getting a reminder about using the `case` function as I have even seen that show up in some custom Clarizen workflows but only kind-of grasped it. 
+
+--------
+
 ### Day 18: January 18th, 2017
 
 **Today's Progress:**
@@ -19,7 +35,7 @@
    ![I have no idea what I'm doing](http://i.imgur.com/QyuQiPD.jpg)
 
    Might have to just straight up repeat this chapter.
-   
+
 --------
 
 
