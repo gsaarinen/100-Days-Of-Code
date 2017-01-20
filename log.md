@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 20th, 2017
+
+**Today's Progress:**
+
+   Continued back with Ch. 9 of the rails tutorial. For some reason my test were giving me issues but now they seem to be in order.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Basic stuff today - just trying to get time in!!
+
+--------
+
+
 ### Day 19: January 19th, 2017
 
 **Today's Progress:**
@@ -12,7 +29,7 @@
 
 **Thoughts:**
 
-   Not a ton to add here today. It was nice getting a reminder about using the `case` function as I have even seen that show up in some custom Clarizen workflows but only kind-of grasped it. 
+   Not a ton to add here today. It was nice getting a reminder about using the `case` function as I have even seen that show up in some custom Clarizen workflows but only kind-of grasped it.
 
 --------
 
