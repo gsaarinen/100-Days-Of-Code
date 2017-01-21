@@ -4,7 +4,7 @@
 
 **Today's Progress:**
 
-    Continued to work through Ch 9 of the rails tutorial. Learned about how to shorten up `if ... else` statements.
+   Continued to work through Ch 9 of the rails tutorial. Learned about how to shorten up `if ... else` statements.
 
 **Time Logged:**
 
