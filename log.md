@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 21th, 2017
+
+**Today's Progress:**
+
+    Continued to work through Ch 9 of the rails tutorial. Learned about how to shorten up `if ... else` statements.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Working up north at the wife's parents today so still making sure I get my time in! Big take-away today was learning about the `ternary operator` and how they shorten up writing `if .... else` statements.
+
+--------
+
+
 ### Day 20: January 20th, 2017
 
 **Today's Progress:**
