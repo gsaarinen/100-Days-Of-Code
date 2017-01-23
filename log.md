@@ -1,5 +1,57 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 22nd, 2017
+
+**Today's Progress:**
+
+   Still chugging through Ch 9 and hit a real hurdle today with an integration test but dove head first into regular variables vs. instance variables.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Hoooo boy - I probably got the smallest amount done today in the tutorial but holy crap did I learn a lot. Seriously, I feel a real sense of accomplishment right now!
+
+   So first of all: I had to really dive into understanding the difference of instance variables and how they differ from regular variables. Even though I have seen frequently code like this:
+   `var = something` vs. `@var = something`
+   - -it never really clicked with me.
+
+   It wasn't until I was required to update a variable to an instance variable on the `sessions controller` and I ran [into this post](http://stackoverflow.com/questions/10280801/normal-variables-vs-instance-variable-in-ruby-whats-the-difference) on Stackoverflow that I was able to really understand how they work.
+
+   ```ruby
+    class User
+      def set_name
+        @name = "Bob"
+        surname = "Cratchett"
+      end
+
+      def hi
+        puts "Hello, " + @name
+      end
+
+      def hello
+        puts "Hello, Mr " + surname
+      end
+    end
+
+   irb(main):022:0> u = User.new
+   => #<User:0x29cbfb0>
+   irb(main):023:0> u.set_name
+   irb(main):024:0> u.hi
+   Hello, Bob
+   => nil
+   irb(main):025:0> u.hello
+   NameError: undefined local variable or method `surname' for #<User:0x29cbfb0 @name="Bob">
+   ```
+   This was big I.
+
+   The last part where I got extremely hung up on was actually getting the test to pass the used this newly available instance variable of `remember_token` and how to write a correct `assert_equal` test. Long story short - commas are super important. 🙄
+
+--------
+
+
 ### Day 21: January 21th, 2017
 
 **Today's Progress:**
