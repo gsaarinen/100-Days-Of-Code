@@ -47,7 +47,7 @@
    ```
    This was big.
 
-   The last part where I got extremely hung up on was actually getting the test to pass the used this newly available instance variable of `remember_token` and how to write a correct `assert_equal` test. Long story short - commas are super important. 🙄
+   The last part where I got extremely hung up on was actually getting the test to pass. Using the newly available instance variable of `remember_token` I finally figured out how to write a correct `assert_equal` test. Long story short - commas are super important. 🙄
 
 --------
 
