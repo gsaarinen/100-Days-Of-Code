@@ -45,7 +45,7 @@
    irb(main):025:0> u.hello
    NameError: undefined local variable or method `surname' for #<User:0x29cbfb0 @name="Bob">
    ```
-   This was big I.
+   This was big.
 
    The last part where I got extremely hung up on was actually getting the test to pass the used this newly available instance variable of `remember_token` and how to write a correct `assert_equal` test. Long story short - commas are super important. 🙄
 
