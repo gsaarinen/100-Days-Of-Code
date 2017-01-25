@@ -13,6 +13,7 @@
 **Thoughts:**
 
    Switched up some of how the edit and signup forms are represented and moved the form parts into partials and used the `render` method in the .erb file. This initially brought up some issues in `invalid signup information` test that was in the `users_signup_test` integration test.
+
 --------
 
 ### Day 23: January 23rd, 2017
@@ -28,6 +29,8 @@
 **Thoughts:**
 
    Had issues with getting my `sessions_helper_test` working and had to comment out some code initially to do a commit. Then spent about 30 minutes the next morning looking into the test and I was able to figure it out. Crazy what a fresh set of eyes can do! It was a pretty simple issue where I was defining the variable `current_user` twice in one of the files being referenced in the test.
+
+
 --------
 
 ### Day 22: January 22nd, 2017
