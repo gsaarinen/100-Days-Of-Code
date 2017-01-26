@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 25th, 2017
+
+**Today's Progress:**
+
+   Change up - went back to Treehouse and did more Ruby tutorials. This time focused on how to interact with arrays and hashes.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   It feels good to continue to bounce back and forth between the Hartl Rails tutorial and core Ruby stuff at Treehouse. I feel like this is a good mix to keep continuing where I'm focusing more of my time on actually building things but still spending (25%?) of my time on still learning the basics. The Treehouse classes seem to be solidifying concepts that the Hartl tutorial is exposing me to which I feel is a good system.
+
+--------
+
 ### Day 24: January 24th, 2017
 
 **Today's Progress:**
