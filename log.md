@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 26: January 26th, 2017
+
+**Today's Progress:**
+
+   More of Ch 10 of the Hartl Rails tutorial. Today covered how to successfully allow users to edit their profile page in the app and got more specific into [TDD](http://agiledata.org/essays/tdd.html).
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Nothing of consequence to report today. Tough to find time with being at home with a sick kid all day and then had to bring him to the Dr. at 7:30pm but squeezed a little time in. Good thing I don't have to work tomorrow. 
+
+--------
+
 ### Day 25: January 25th, 2017
 
 **Today's Progress:**
