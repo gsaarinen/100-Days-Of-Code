@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 28: January 28th, 2017
+
+**Today's Progress:**
+
+   Got strep so was feeling pretty bleh and just focused on the [DevTips tutorial](https://www.youtube.com/watch?v=wzEl6XWNpK8) on how he built his own site. Super insightful stuff.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   With being sick it was pretty tough to find motivation but that's when I have found that the DevTips videos hit me the most. Just watching him organize his files and watch his process is teaching me a lot in how to build and design sites. 
+
+--------
+
+
+### Day 27: January 27th, 2017
+
+**Today's Progress:**
+
+   More of Ch 10 of the Hartl Rails tutorial. Continued to learn more bout how we will allow users to edit their profiles.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Worked on creating some helper methods to store url locations and how to redirect a user back to their profile when attempting to update another users page. Ended up getting stuck on one of the exercises that had me writing a test to check the value of the `session[:forwarding_url]` but couldn't figure it out. will have to come back.
+
+--------
+
+
 ### Day 26: January 26th, 2017
 
 **Today's Progress:**
@@ -12,7 +46,7 @@
 
 **Thoughts:**
 
-   Nothing of consequence to report today. Tough to find time with being at home with a sick kid all day and then had to bring him to the Dr. at 7:30pm but squeezed a little time in. Good thing I don't have to work tomorrow. 
+   Nothing of consequence to report today. Tough to find time with being at home with a sick kid all day and then had to bring him to the Dr. at 7:30pm but squeezed a little time in. Good thing I don't have to work tomorrow.
 
 --------
 
