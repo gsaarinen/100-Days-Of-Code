@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 29: January 29th, 2017
+
+**Today's Progress:**
+
+   Spent more time on core ruby with the Treehouse tutorials and starting to more of a solid understanding of `arrays` and `hashes`.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Really liking the Treehouse stuff the deeper it goes. I'm glad I ended up getting a full year subscription as I feel that this is something that I will leverage a lot. I like how they point you to the [Ruby Documentation](http://ruby-doc.org/). 
+
+--------
+
+
 ### Day 28: January 28th, 2017
 
 **Today's Progress:**
@@ -12,7 +29,7 @@
 
 **Thoughts:**
 
-   With being sick it was pretty tough to find motivation but that's when I have found that the DevTips videos hit me the most. Just watching him organize his files and watch his process is teaching me a lot in how to build and design sites. 
+   With being sick it was pretty tough to find motivation but that's when I have found that the DevTips videos hit me the most. Just watching him organize his files and watch his process is teaching me a lot in how to build and design sites.
 
 --------
 
