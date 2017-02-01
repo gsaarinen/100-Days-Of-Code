@@ -1,5 +1,43 @@
 # 100 Days Of Code - Log
 
+### Day 31: January 31st, 2017
+
+**Today's Progress:**
+
+   Continued Ch 10 of the Rails tut. Got stuck on writing an integration test that now tests page layout links after a user has logged in.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   For some reason the test doesn't see the link but it works for an end user so I must be writing something wrong. I originally thought it was something to do with my `routes.rb` file which was a tip from a co-worker (Matt) but alas, that didn't seem to solve it. Checking in with another one of the developers at work (Eric) tomorrow morning to see if he can help me figure it out.
+
+   Got a little into the pagination stuff and seeding a bunch of users with the Faker gem which is pretty cool. I'll have to look at the documentation to see exactly how that works.
+
+--------
+
+
+### Day 30: January 30th, 2017
+
+**Today's Progress:**
+
+   More time on Ch 10 of the Hartl Rails Tutorial (creating a index page for all users) and then spent a good hour with DevTips watching more of his Design + Code tutorial.
+
+**Time Logged:**
+
+   2.25
+
+**Thoughts:**
+
+   I was finally able to figure out the testing issue I was running into with the `session[:forwarding_url]`. It turns out I was thinking about the problem wrong assuming it was supposed to have a value. I should of listened to my test errors (which were telling me it was nil) as it was supposed to that.
+
+   Also, spent more time watching the DevTips tutorial and again - this is such a great series to just see how someone builds their site. It's getting me excited to dive more into some front end stuff once my Rails tutorial is done.
+
+--------
+
+
 ### Day 29: January 29th, 2017
 
 **Today's Progress:**
@@ -12,7 +50,7 @@
 
 **Thoughts:**
 
-   Really liking the Treehouse stuff the deeper it goes. I'm glad I ended up getting a full year subscription as I feel that this is something that I will leverage a lot. I like how they point you to the [Ruby Documentation](http://ruby-doc.org/). 
+   Really liking the Treehouse stuff the deeper it goes. I'm glad I ended up getting a full year subscription as I feel that this is something that I will leverage a lot. I like how they point you to the [Ruby Documentation](http://ruby-doc.org/).
 
 --------
 
