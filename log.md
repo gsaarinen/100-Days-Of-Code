@@ -17,7 +17,7 @@
    ```FAIL["test_unsuccessful_edit", UsersEditTest, 619.0571372920022]
  test_unsuccessful_edit#UsersEditTest (619.06s)
         expecting <"users/edit"> but rendering with <[]>
-        test/integration/users_edit_test.rb:13:in `block in <class:UsersEditTest>'
+        test/integration/users_edit_test.rb:13:in `block in <class:UsersEditTest>
    ```
 
   It seems that when I run that method it loads this url:
