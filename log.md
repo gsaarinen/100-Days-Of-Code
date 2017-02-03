@@ -20,13 +20,14 @@
         test/integration/users_edit_test.rb:13:in `block in <class:UsersEditTest>'
    ```
 
-   It seems that when I run that method it loads this url:
+  It seems that when I run that method it loads this url:
+
    ```html
    <html><body>You are being <a href=\"http://www.example.com/users/762146111\">redirected</a>.</body></html>"
    ```
    The only thing that I can think of now that the issue could be related to is when trying to visit the `users/edit` path and how it is or isn't using the HTTP patch method.
 
-   Thinking - thinking - thinking 
+   Thinking - thinking - thinking
 
 --------
 
