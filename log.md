@@ -14,10 +14,9 @@
 
    So now I have 2 separate 'but related' test issues in the `user_edit_test.rb` file - `unsuccessful_edits` and `successful edit with friendly forwarding`. It all seems to be related to the `log_in_as` helper and it's doing a weird redirect. I keep getting these types of errors:
 
-   ```FAIL["test_unsuccessful_edit", UsersEditTest, 619.0571372920022]
- test_unsuccessful_edit#UsersEditTest (619.06s)
-        expecting <"users/edit"> but rendering with <[]>
-        test/integration/users_edit_test.rb:13:in `block in <class:UsersEditTest>
+   ```
+   FAIL["test_unsuccessful_edit", UsersEditTest, 619.0571372920022]
+   test_unsuccessful_edit#UsersEditTest (619.06s) expecting <"users/edit"> but rendering with <[] test/integration/users_edit_test.rb:13:in `block in <class:UsersEditTest>
    ```
 
   It seems that when I run that method it loads this url:
