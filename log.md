@@ -1,5 +1,52 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 2st, 2017
+
+**Today's Progress:**
+
+   Groundhog's Day! I am still debugging 👏 these 👏 test 👏 issues 👏! Yup - Ch 10. Still.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   So now I have 2 separate 'but related' test issues in the `user_edit_test.rb` file - `unsuccessful_edits` and `successful edit with friendly forwarding`. It all seems to be related to the `log_in_as` helper and it's doing a weird redirect. I keep getting these types of errors:
+
+   ```FAIL["test_unsuccessful_edit", UsersEditTest, 619.0571372920022]
+ test_unsuccessful_edit#UsersEditTest (619.06s)
+        expecting <"users/edit"> but rendering with <[]>
+        test/integration/users_edit_test.rb:13:in `block in <class:UsersEditTest>'
+   ```
+
+   It seems that when I run that method it loads this url:
+   ```html
+   <html><body>You are being <a href=\"http://www.example.com/users/762146111\">redirected</a>.</body></html>"
+   ```
+   The only thing that I can think of now that the issue could be related to is when trying to visit the `users/edit` path and how it is or isn't using the HTTP patch method.
+
+   Thinking - thinking - thinking 
+
+--------
+
+### Day 32: February 1st, 2017
+
+**Today's Progress:**
+
+   Running into a big issue with some tests in Ch 10 so I spent a lot of time debugging that and a little DevTips tutorial in the evening.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Went in and worked with a co-worker (Eric) to try and figure out the initial issue where the layout links test in the `site_layout_test.rb` file wasn't working. We got it to pass but found that I'm getting a weird redirect issue withe the `log_in_as` helper method.
+
+   Ended up having to do a lot of real work late in the night so I ended my hour time with some DevTips videos so I could at least still get a full hour.
+--------
+
 ### Day 31: January 31st, 2017
 
 **Today's Progress:**
