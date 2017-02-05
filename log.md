@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 4th, 2017
+
+**Today's Progress:**
+
+   Had to do something different. Went back to Treehouse and went over iteration with different types of loops.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Today was a little bit of review but it was good to solidify how iteration works in Ruby. It was interesting that `for loops` are used differently in Ruby and as such, not used frequently. I vaguely remember them being pretty prevalent in JavaScript. 
+
+--------
+
+
+### Day 33: February 3rd, 2017
+
+**Today's Progress:**
+
+   Damn. Still debugging. Nothing new.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   See "Today's Progress" 😑
+
+--------
+
+
 ### Day 33: February 2st, 2017
 
 **Today's Progress:**
