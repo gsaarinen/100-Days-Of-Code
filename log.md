@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 5th, 2017
+
+**Today's Progress:**
+
+   Focused on Treehouse tuts (working with iterating over hashes now and building a contact list app) and did more [DevTips stuff](https://www.youtube.com/watch?v=9XqFV9fy8SU).
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Can't bring myself go back and debug more so I stuck with Treehouse and DevTips. I've been thinking more about front end development lately after all the DevTips vids and I just really like the instant gratification of manipulating the DOM (at least how easy Travis does it). Trying to figure out how I will fit that in after I get through the Hartl tutorial.
+
+--------
+
+
 ### Day 34: February 4th, 2017
 
 **Today's Progress:**
@@ -12,7 +29,7 @@
 
 **Thoughts:**
 
-   Today was a little bit of review but it was good to solidify how iteration works in Ruby. It was interesting that `for loops` are used differently in Ruby and as such, not used frequently. I vaguely remember them being pretty prevalent in JavaScript. 
+   Today was a little bit of review but it was good to solidify how iteration works in Ruby. It was interesting that `for loops` are used differently in Ruby and as such, not used frequently. I vaguely remember them being pretty prevalent in JavaScript.
 
 --------
 
