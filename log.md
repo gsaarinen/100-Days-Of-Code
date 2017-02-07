@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 6th, 2017
+
+**Today's Progress:**
+
+   Continued more with [DevTips stuff](https://www.youtube.com/watch?v=9XqFV9fy8SU).
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Nothing crazy new to report. 
+
+--------
+
+
 ### Day 35: February 5th, 2017
 
 **Today's Progress:**
