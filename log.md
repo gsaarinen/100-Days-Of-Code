@@ -1,6 +1,53 @@
 # 100 Days Of Code - Log
 
-### Day 36: February 6th, 2017
+### Day 38: February 7th, 2017
+
+**Today's Progress:**
+
+   I dove back into debugging my test issues with Ch 10 of the Hartl rails tutorial and also rebuilt my repo in Github so it shows all my commits.
+
+**Time Logged:**
+
+   2.5
+
+**Thoughts:**
+
+   _On the Github side:_
+
+   I had to create a new repository with my existing 100 Days of Code log because I didn't like how all my commits and streak were not showing up in my daily activity [because of the way that Github counts contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/). Essentially, working on a forked repo doesn't count??
+
+   *On the debugging side: ...damn.*
+
+   So progress has been made. Slow and frustrating but progress none-the-less. I finally was able to figure out what code was giving me redirect issues when running certain tests and it all comes down to the `correct_user` method in `users_controller.rb`.
+
+   ```ruby
+   # Confirms the correct user.
+    def correct_user
+      @user = User.find_by(params[:id])
+      redirect_to(root_url) unless @user == current_user
+    end
+   ```
+   I'm trying to figure out how to debug it or run a rails console in the test because I suspect that it's not working because the tests pass when I comment out the last line that uses the `redirect_to` method. This method is used as a `before_action` filter on the controller only on the edit and update actions.
+
+   ```ruby
+   class UsersController < ApplicationController
+     before_action :logged_in_user, only: [:index, :edit, :update]
+     before_action :correct_user,   only: [:edit, :update]
+     .
+     .
+     .
+   ```
+   ...which now makes sense why only the test that were trying to edit a user were failing. Specifically,  the redirect issue was popping up after the test logged a user in, pulled in the user_edit path, and then when it ran `assert_template 'users/edit'` it would pull up as nil or www.example.com instead of www.example.com/user/12345678/edit.
+
+   Anyways, it I figured out that is the specific part that is causing the issue but now I need to figure out WHY it's doing that.
+
+   Also, I get new errors on some test that I somehow missed creating while going through the tutorial and I'm getting `BCrypt::Errors::InvalidHash:` errors. Will need to dive into that later.  
+
+
+--------
+
+
+### Day 37: February 6th, 2017
 
 **Today's Progress:**
 
@@ -12,12 +59,12 @@
 
 **Thoughts:**
 
-   Nothing crazy new to report. 
+   Nothing crazy new to report.
 
 --------
 
 
-### Day 35: February 5th, 2017
+### Day 36: February 5th, 2017
 
 **Today's Progress:**
 
@@ -34,7 +81,7 @@
 --------
 
 
-### Day 34: February 4th, 2017
+### Day 35: February 4th, 2017
 
 **Today's Progress:**
 
@@ -51,7 +98,7 @@
 --------
 
 
-### Day 33: February 3rd, 2017
+### Day 34: February 3rd, 2017
 
 **Today's Progress:**
 
