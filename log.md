@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 39: February 8th, 2017
+
+**Today's Progress:**
+
+   Did some Treehouse tuts up in this piece. Finished the section on iteration and all the different flavors of that and then got into OOP and how Classes work in Ruby.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   I got really excited when I found out the next section was about **Ruby Objects and Classes** as that is something that I really think needs to get solidified in my learning. While I have learned things in the previous sections, they have felt like review as I have started programming tutorials so many times in the past. And let's face it - almost all tutorials start with data types and how to manipulate them. Objects & Classes FTW!
+
+--------
+
+
+
 ### Day 38: February 7th, 2017
 
 **Today's Progress:**
