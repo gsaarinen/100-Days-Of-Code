@@ -1,5 +1,56 @@
 # 100 Days Of Code - Log
 
+### Day 42: February 11th, 2017
+
+**Today's Progress:**
+
+   Continued the Treehouse Ruby tutorials (Booleans) which has felt a little like an overview.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Nothing crazy to report. Just keep chugging along. 🙂
+
+--------
+
+
+### Day 41: February 10th, 2017
+
+**Today's Progress:**
+
+   Continued the Treehouse Ruby tutorials (Objects and Classes).
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Had the day off so was able to spend a little more time on learning today. I feel like this section has been so impactful on my understanding of how all of these methods tie together. I definitely felt like I walked away from this section with a solid understanding of object oriented programing.
+
+--------
+
+
+### Day 40: February 9th, 2017
+
+**Today's Progress:**
+
+   Continued the Treehouse Ruby tutorials (Objects and Classes)
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Didn't get a ton of time in today as I had to take an impromptu trip to the ER today 😬.
+
+--------
+
+
 ### Day 39: February 8th, 2017
 
 **Today's Progress:**
