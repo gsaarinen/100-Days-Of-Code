@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 43: February 12th, 2017
+
+**Today's Progress:**
+
+   Spend a little time on the [Enki app](https://www.enki.com/) and did some of their exercises. I also, continued the Treehouse Ruby tutorials (Booleans) and I take back the thought of this being an overview of previous things. Ended up finishing it up tonight
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   The more I use the Enki app the more I like it. Today I went through some of the command line/bash shell "workouts" and learned a lot. Also, the Ruby stuff in Treehouse I can tell is starting to ramp up a little the further along I get. I underestimated this section since it was presumably just going over booleans but it was starting to really put together a lot of the work from previous sections. 
+
+--------
+
 ### Day 42: February 11th, 2017
 
 **Today's Progress:**
