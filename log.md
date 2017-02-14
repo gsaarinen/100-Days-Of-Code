@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 44: February 13th, 2017
+
+**Today's Progress:**
+
+   More time on the [Enki app](https://www.enki.com/) and then continued with DevTips' [Design + Code tutorial](https://www.youtube.com/watch?v=FiJuoFg_Ipc&index=18&list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A).
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Did more of the Linux and Bash Shell exercises and I just love how unix operating systems are setup. They are so logical. I guess I haven't dove into a Windows based OS in a long time so maybe there are more similarities than I remember. 
+
+--------
+
+
 ### Day 43: February 12th, 2017
 
 **Today's Progress:**
@@ -12,7 +29,7 @@
 
 **Thoughts:**
 
-   The more I use the Enki app the more I like it. Today I went through some of the command line/bash shell "workouts" and learned a lot. Also, the Ruby stuff in Treehouse I can tell is starting to ramp up a little the further along I get. I underestimated this section since it was presumably just going over booleans but it was starting to really put together a lot of the work from previous sections. 
+   The more I use the Enki app the more I like it. Today I went through some of the command line/bash shell "workouts" and learned a lot. Also, the Ruby stuff in Treehouse I can tell is starting to ramp up a little the further along I get. I underestimated this section since it was presumably just going over booleans but it was starting to really put together a lot of the work from previous sections.
 
 --------
 
