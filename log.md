@@ -1,5 +1,38 @@
 # 100 Days Of Code - Log
 
+### Day 46: February 15th, 2017
+
+**Today's Progress:**
+
+   More time on the [Enki app](https://www.enki.com/), did some trouble shooting on my test issues I'm getting with the Hartl tutorial Ch. 10, and watched some DevTips.
+
+**Time Logged:**
+
+   2.25
+
+**Thoughts:**
+
+   Nothing big to report. Just cranking away. 
+
+--------
+
+
+### Day 45: February 14th, 2017
+
+**Today's Progress:**
+
+   More time on the [Enki app](https://www.enki.com/) and did some trouble shooting at work with Eric on my test issues I'm getting with the Hartl tutorial Ch. 10.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Nothing big to report. Just the fact that in my `users.yml` file in the fixures folder was giving me issues.
+
+--------
+
 ### Day 44: February 13th, 2017
 
 **Today's Progress:**
@@ -12,7 +45,7 @@
 
 **Thoughts:**
 
-   Did more of the Linux and Bash Shell exercises and I just love how unix operating systems are setup. They are so logical. I guess I haven't dove into a Windows based OS in a long time so maybe there are more similarities than I remember. 
+   Did more of the Linux and Bash Shell exercises and I just love how unix operating systems are setup. They are so logical. I guess I haven't dove into a Windows based OS in a long time so maybe there are more similarities than I remember.
 
 --------
 
