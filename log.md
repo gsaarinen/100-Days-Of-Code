@@ -1,5 +1,71 @@
 # 100 Days Of Code - Log
 
+### Day 50: February 19th, 2017
+
+**Today's Progress:**
+
+   Continued working on Ch 10 and I *think* I made it past where I was getting tripped up on my previous branch.
+
+**Time Logged:**
+
+   2.5
+
+**Thoughts:**
+
+   So I'm knocking on wood but I believe I made it past my previous issues on this debugging excursion. Spent a lot of time today just re-doing Ch 10 and it feels pretty good to get past the point where I got stuck before. Once I'm completely finished with this branch, I'm going to compare it to the previous one and see where all the issues where - should prove to be quite a learning experience. 
+
+--------
+
+### Day 49: February 18th, 2017
+
+**Today's Progress:**
+
+   Continued working on Ch 10 of the rails tutorial on a new branch.
+
+**Time Logged:**
+
+   .75 hours
+
+**Thoughts:**
+
+   Kind of bummed I didn't hit an entire hour today but it was tough to just get in the time that I did with my parents being in town.
+
+--------
+
+### Day 48: February 17th, 2017
+
+**Today's Progress:**
+
+   Really went to town on debugging my editing users branch with Eric at code club. Made some progress in figuring out where some of the redirects where happening but ultimately decided to blow up this branch and start over.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Yup. Going to start over but excited to learn more about `git diff` and use that to see where my issues were once I get a new branch working.
+
+--------
+
+
+### Day 47: February 16th, 2017
+
+**Today's Progress:**
+
+   I forgot to put in my log what I did ... now I can't remember. 😁
+   I'm pretty sure it was about Ruby blocks.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Ruby blocks are pretty sweet!
+
+--------
+
 ### Day 46: February 15th, 2017
 
 **Today's Progress:**
@@ -12,7 +78,7 @@
 
 **Thoughts:**
 
-   Nothing big to report. Just cranking away. 
+   Nothing big to report. Just cranking away.
 
 --------
 
