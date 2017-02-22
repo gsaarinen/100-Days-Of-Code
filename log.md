@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 52: February 21th, 2017
+
+**Today's Progress:**
+
+   FINALLY finished Ch. 10 of the Hartl Tutorial. That took a pretttaaayy pretttaaayy pretttaaayy long time. Just under 1 month.
+
+**Time Logged:**
+
+   1.75
+
+**Thoughts:**
+
+   Man does it feel good that I have finally moved on from that damn chapter. I did push both my original and new branches up to bitbucket so I can use their `compare` feature to see if I can actually learn what my mistake was.
+
+   While this chapter was a huge pain in the ass, I can say that I honestly learned a ton. Lots of debugging skills, how to re-write tests, how to really navigate the app, and just generally understand more about how the whole things works. Definitely going to remember this one!
+
+--------
+
+### Day 51: February 20th, 2017
+
+**Today's Progress:**
+
+   Completed the Ruby Blocks course of the Treehouse Ruby Basics and did the short Enumerable's workshop.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Getting down there with what's left of the Treehouse Ruby courses. Now it has a few options for me to do as the next course instead of just the standard next course. Watched a few trailers on my next options and really interested to see what the Sinatra one is about as I'm pretty deep in the Hartl Rails tutorial.
+
+--------
+
 ### Day 50: February 19th, 2017
 
 **Today's Progress:**
@@ -12,7 +46,7 @@
 
 **Thoughts:**
 
-   So I'm knocking on wood but I believe I made it past my previous issues on this debugging excursion. Spent a lot of time today just re-doing Ch 10 and it feels pretty good to get past the point where I got stuck before. Once I'm completely finished with this branch, I'm going to compare it to the previous one and see where all the issues where - should prove to be quite a learning experience. 
+   So I'm knocking on wood but I believe I made it past my previous issues on this debugging excursion. Spent a lot of time today just re-doing Ch 10 and it feels pretty good to get past the point where I got stuck before. Once I'm completely finished with this branch, I'm going to compare it to the previous one and see where all the issues where - should prove to be quite a learning experience.
 
 --------
 
