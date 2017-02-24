@@ -1,5 +1,38 @@
 # 100 Days Of Code - Log
 
+### Day 54: February 23rd, 2017
+
+**Today's Progress:**
+
+   Continued Ch 11 in the Hartl Rails tutorial and learned about account activation and starting to use mailers. A little DevTips at the end.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Interested to see how `mailers` are used in Rails and how they are applied. Once I have a better understanding I want to see how or if they are implemented at work. I assume not since I can't image the native mailers can handle what our app does in regards to sending email but we'll see.
+
+--------
+
+
+### Day 53: February 22nd, 2017
+
+**Today's Progress:**
+
+   Treehouse Ruby Basics. Started the "building an address book" course and learned more about designing classes.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Ruby rules!
+
+--------
+
 ### Day 52: February 21th, 2017
 
 **Today's Progress:**
