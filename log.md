@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## Test 
+
 ### Day 57: February 26th, 2017
 
 **Today's Progress:**
@@ -12,7 +14,7 @@
 
 **Thoughts:**
 
-   Finally got the Bootstrap stuff to show up correctly! Having to create the files and folders manually really are helping me understand how Jekyll works. My main problem was when I introduced Sass and how that needs to compile first before getting compiled again in the `_site` folder. 
+   Finally got the Bootstrap stuff to show up correctly! Having to create the files and folders manually really are helping me understand how Jekyll works. My main problem was when I introduced Sass and how that needs to compile first before getting compiled again in the `_site` folder.
 
 --------
 
