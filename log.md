@@ -1,5 +1,54 @@
 # 100 Days Of Code - Log
 
+### Day 57: February 26th, 2017
+
+**Today's Progress:**
+
+   More time working on my site (Jekyll, Sass, Bootstrap, etc.).
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Finally got the Bootstrap stuff to show up correctly! Having to create the files and folders manually really are helping me understand how Jekyll works. My main problem was when I introduced Sass and how that needs to compile first before getting compiled again in the `_site` folder. 
+
+--------
+
+### Day 56: February 25th, 2017
+
+**Today's Progress:**
+
+   Switched it up - tried to actually build something. Started working on my personal site again and tried to get Bootstrap working with Jeykll.
+
+**Time Logged:**
+
+   2
+
+**Thoughts:**
+
+   Today was primarily about getting the environment setup. I haven't pushed it to git yet because it's not quite in good enough shape. Running into issues actually getting my `SASS` to compile right in my `css`.
+
+--------
+
+### Day 55: February 24th, 2017
+
+**Today's Progress:**
+
+   I was late on logging this day so I don't have a lot of details. I know I spent most of it on the DevTips tutorial.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   😬😬😬😬😬😬😬
+
+--------
+
+
 ### Day 54: February 23rd, 2017
 
 **Today's Progress:**
