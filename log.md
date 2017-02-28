@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-## Test 
+### Day 58: February 27th, 2017
+
+**Today's Progress:**
+
+   Got back to the Hartl Tutorial and worked more on Ch 11 - account activation and using the mailer. Also, researched and reconfigured some Github email issues messing with my contributions graph.
+
+   Gotta get 'dem green squares! ✅
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Still chugging along on the figuring out how the `ActionMailer` is used in a rails app. Regarding the Github email issue - I'm slightly annoyed (at myself) that I had my work email associated locally on my machine with my git profile and that - in turn - was not counting my daily commits to my contributions graph on my Github profile page. I know it's somewhat inconsequential, but when I'm working everyday on something it would of been cool to see all those green squares 😎.
+
+   Curious how that will work when I end up using my machine for actual commits on repos at work?
+
+--------
 
 ### Day 57: February 26th, 2017
 
