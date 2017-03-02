@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 60: March 1st, 2017
+
+**Today's Progress:**
+
+   A little Treehouse + DevTips. Again, another long day. I think after this week is over I'll get better at taking better notes and s t r e t c h i n g my mind. 
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Not much to report.
+
+--------
+
+
+### Day 59: February 28th, 2017
+
+**Today's Progress:**
+
+   More DevTips videos. Looooong day at work so I just wanted to get in what I could with his vids.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Not much to report.
+
+--------
+
+
 ### Day 58: February 27th, 2017
 
 **Today's Progress:**
