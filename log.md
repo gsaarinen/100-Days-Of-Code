@@ -1,10 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 61: March 2nd, 2017
+
+**Today's Progress:**
+
+   Worked quite a bit today on the personal site. Finally got it deployed to Github pages so check it out here!
+   [garretsaarinen.com](http://garretsaarinen.com)
+
+**Time Logged:**
+
+   2.25
+
+**Thoughts:**
+
+   I'm having a weird issue where my background image isn't loading on the github hosted version of it so I'm wondering if the file is too big for the repo. I have been learning some pretty sweet CSS stuff like how to have an all image landing page that is always 100% of the viewport but has content below it.
+
+   Cool stuff
+
+--------
+
 ### Day 60: March 1st, 2017
 
 **Today's Progress:**
 
-   A little Treehouse + DevTips. Again, another long day. I think after this week is over I'll get better at taking better notes and s t r e t c h i n g my mind. 
+   A little Treehouse + DevTips. Again, another long day. I think after this week is over I'll get better at taking better notes and s t r e t c h i n g my mind.
 
 **Time Logged:**
 
