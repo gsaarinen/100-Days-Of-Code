@@ -1,5 +1,40 @@
 # 100 Days Of Code - Log
 
+### Day 63: March 4th, 2017
+
+**Today's Progress:**
+
+   Worked more on my site ( [garretsaarinen.com](http://garretsaarinen.com) ) and I got the new nav bar setup!
+
+**Time Logged:**
+
+   1.75
+
+**Thoughts:**
+
+   I'm loving the new navigation! I took influence from [this post on codepen](http://codepen.io/MightyShaban/pen/CIfdj) and I was successfully able to implement it on my jekyll site. I'm starting to really get the hang of where to put things in terms of folders and how to link to them appropriately in the head file. I have somewhat of a mess with all my sass/css and I know that there are css rules overriding each-other so that is my next big project.
+
+--------
+
+### Day 62: March 3rd, 2017
+
+**Today's Progress:**
+
+   Two main focal points today:
+   * Finishing Ch 11 of the Hartl Tutorial
+   * Working with Matt to get my machine setup for running evolution locally.
+
+**Time Logged:**
+
+   2.25
+
+**Thoughts:**
+
+   The second item proved to be quite the process. We worked for about 1.25 hours and got about what appeared to be half way through. Ran into a road block where I needed to work with cloud operations to get the right access so I'll pick it up next week.
+
+--------
+
+
 ### Day 61: March 2nd, 2017
 
 **Today's Progress:**
