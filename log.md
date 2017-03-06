@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 64: March 5th, 2017
+
+**Today's Progress:**
+
+   Felt like garbage so I stuck with some new DevTips tutorials. I started revisiting his [Build a responsive site from scratch](https://www.youtube.com/watch?v=D2W_oqMM19k&index=8&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI) series which is what got me to check out Jekyll.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Tough to get my time today because I felt sick so kind of bummed that I only got in an hour. I need to remember to not push it so hard all the time - otherwise I'll stay sick.
+
+   The more I observe other people programming the more I feel confident in my understanding of what they are doing. Like DHH said - "Read a lot of code, write a lot of code". 
+
+--------
+
 ### Day 63: March 4th, 2017
 
 **Today's Progress:**
