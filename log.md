@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 65: March 6th, 2017
+
+**Today's Progress:**
+
+   More DevTips but branched out a little and checked out how I should create some responsive emails in HTML and CSS. Also, worked on my site a little and started to think about how I want my footer to look.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   I'm going to start to take this email/HTML knowledge and update the Project Closing emails out of Salesforce at work so they don't look like garbage. Because, let's face it - they look like hot trash.
+
+   One big take-away from working on my site is that I really need to start, even if briefly, sketching out my thoughts and design first. It's fun to play around with the design while I'm coding it but, it seems to go much slower. 
+
+--------
+
 ### Day 64: March 5th, 2017
 
 **Today's Progress:**
@@ -14,7 +32,7 @@
 
    Tough to get my time today because I felt sick so kind of bummed that I only got in an hour. I need to remember to not push it so hard all the time - otherwise I'll stay sick.
 
-   The more I observe other people programming the more I feel confident in my understanding of what they are doing. Like DHH said - "Read a lot of code, write a lot of code". 
+   The more I observe other people programming the more I feel confident in my understanding of what they are doing. Like DHH said - "Read a lot of code, write a lot of code".
 
 --------
 
