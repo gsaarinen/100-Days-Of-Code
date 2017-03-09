@@ -1,5 +1,44 @@
 # 100 Days Of Code - Log
 
+### Day 67: March 8th, 2017
+
+**Today's Progress:**
+
+  Smattering of a few things:
+  - New fonts and played with jQuery on my site
+  - Updated formatting and CSS on the site
+  - Looked at some jQuery tutorials with DevTips
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Really liking [Googles font site](https://fonts.google.com) and it makes it super easy to play around with different fonts. 
+
+--------
+
+
+### Day 66: March 7th, 2017
+
+**Today's Progress:**
+
+   Ch 12 of the Hartl Tutorial and DevTips jQuery stuff.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Not much to report. Started with the password reset stuff in the Ch 12 of the Hartl tutorial and re-using a lot stuff from the last chapter with ActionMailer.
+
+   Also really liking the jQuery tutorials from DevTips. Fun stuff 😎
+
+--------
+
+
 ### Day 65: March 6th, 2017
 
 **Today's Progress:**
@@ -14,7 +53,7 @@
 
    I'm going to start to take this email/HTML knowledge and update the Project Closing emails out of Salesforce at work so they don't look like garbage. Because, let's face it - they look like hot trash.
 
-   One big take-away from working on my site is that I really need to start, even if briefly, sketching out my thoughts and design first. It's fun to play around with the design while I'm coding it but, it seems to go much slower. 
+   One big take-away from working on my site is that I really need to start, even if briefly, sketching out my thoughts and design first. It's fun to play around with the design while I'm coding it but, it seems to go much slower.
 
 --------
 
