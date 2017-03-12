@@ -1,5 +1,55 @@
 # 100 Days Of Code - Log
 
+### Day 70: March 11th, 2017
+
+**Today's Progress:**
+
+   Finished up Ch 12 today of the Hartl tutorial and it's cool to see how this is the bones of a full fledged web app with users.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Getting there! I have started to think about how I can use this tutorial to actually build out a real app that does ... something! Since this tutorial goes through created the bare bones of the an app and how to manage users, security, etc. I now just need to figure out something cool for it to do. 
+
+--------
+
+
+### Day 69: March 10th, 2017
+
+**Today's Progress:**
+
+   Worked on Ch 12 of the Hartl tutorial today a bit at work.
+
+**Time Logged:**
+
+   .75
+
+**Thoughts:**
+
+   Nearly complete - only 2 more chapters left. Today was all about password resets.
+
+--------
+
+### Day 68: March 9th, 2017
+
+**Today's Progress:**
+
+   Worked on more DevTips stuff. Was suuuuuper sick today.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Seriously - I was all 💩 all day. Hard to focus.
+
+--------
+
+
 ### Day 67: March 8th, 2017
 
 **Today's Progress:**
@@ -15,7 +65,7 @@
 
 **Thoughts:**
 
-   Really liking [Googles font site](https://fonts.google.com) and it makes it super easy to play around with different fonts. 
+   Really liking [Googles font site](https://fonts.google.com) and it makes it super easy to play around with different fonts.
 
 --------
 
