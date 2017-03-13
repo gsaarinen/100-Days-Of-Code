@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 71: March 12th, 2017
+
+**Today's Progress:**
+
+   Worked on my site for awhile tonight. Played around with some different landing page designs and found some cool alternatives.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   I randomly was thinking about that effect you get from images/text on old 3d movies and wanted to see if I could replicate it. I found a good site going over it in CSS and found it's called the [Anaglyphic effect](http://line25.com/tutorials/how-to-create-a-cool-anaglyphic-text-effect-with-css) and it's not too hard to replicate.
+
+   Also, struggling with getting images sized correctly as it appears too big on my site. Seems like that should be easy but it's proving difficult. 
+
+--------
+
 ### Day 70: March 11th, 2017
 
 **Today's Progress:**
@@ -12,7 +30,7 @@
 
 **Thoughts:**
 
-   Getting there! I have started to think about how I can use this tutorial to actually build out a real app that does ... something! Since this tutorial goes through created the bare bones of the an app and how to manage users, security, etc. I now just need to figure out something cool for it to do. 
+   Getting there! I have started to think about how I can use this tutorial to actually build out a real app that does ... something! Since this tutorial goes through created the bare bones of the an app and how to manage users, security, etc. I now just need to figure out something cool for it to do.
 
 --------
 
