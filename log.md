@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 72: March 13th, 2017
+
+**Today's Progress:**
+
+   Back to Treehouse - yay!! Finished up building the address book (although I was stuck on one exercise and will have to come back)
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   The more and more that I do core Ruby, I really like it. Need to figure out some practical ways to start using it at work so I keep it fresh. Ruby just seems like da best. 
+
+--------
+
+
 ### Day 71: March 12th, 2017
 
 **Today's Progress:**
@@ -14,7 +31,7 @@
 
    I randomly was thinking about that effect you get from images/text on old 3d movies and wanted to see if I could replicate it. I found a good site going over it in CSS and found it's called the [Anaglyphic effect](http://line25.com/tutorials/how-to-create-a-cool-anaglyphic-text-effect-with-css) and it's not too hard to replicate.
 
-   Also, struggling with getting images sized correctly as it appears too big on my site. Seems like that should be easy but it's proving difficult. 
+   Also, struggling with getting images sized correctly as it appears too big on my site. Seems like that should be easy but it's proving difficult.
 
 --------
 
