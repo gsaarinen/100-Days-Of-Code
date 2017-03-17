@@ -1,5 +1,55 @@
 # 100 Days Of Code - Log
 
+### Day 75: March 16th, 2017
+
+**Today's Progress:**
+
+   Continued working on Ch 13 of the Hartl tutorial. Started to go through the Micropost data model and how getting it's dependencies setup on the User object.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Nothing crazy to report but I do like working with additional models and tying them together. It's way more interesting than diving super deep into some of the security and setup stuff in the last few chapters. Nice to see the app will start to function.
+
+--------
+
+
+### Day 74: March 15th, 2017
+
+**Today's Progress:**
+
+   Started Ch 13 of the Hartl tutorial and then also ran through [this quick and awesome tutorial](https://dev.to/philnash/google-spreadsheets-and-ruby) using a Google Spreadsheets Ruby gem.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   I really liked working through the Google Spreadsheets Ruby gem tut. I was able to get the demo working without any big issues (woot!) and it was cool to use something I am familiar with in the real world. I can see how this could actually be applicable to me in the real world. Maybe I could write a script that uses the Clarizen API and dumps some of the data into our resource forecasting spreadsheet, eh eh eh!?!
+
+--------
+
+### Day 73: March 14th, 2017
+
+**Today's Progress:**
+
+   Hartl tutorial - Ch 12
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Finished Ch 12. Didn't log in a few day so I don't have a ton to write about. Really just trying to get this tutorial done so I can move on to something API related. Received a good piece of advice from a co-worker and I should be checking to see if there are ruby gems available for APIs I'm interested in working with. It would be a lot simpler than trying to write it all myself.
+
+--------
+
+
 ### Day 72: March 13th, 2017
 
 **Today's Progress:**
@@ -12,7 +62,7 @@
 
 **Thoughts:**
 
-   The more and more that I do core Ruby, I really like it. Need to figure out some practical ways to start using it at work so I keep it fresh. Ruby just seems like da best. 
+   The more and more that I do core Ruby, I really like it. Need to figure out some practical ways to start using it at work so I keep it fresh. Ruby just seems like da best.
 
 --------
 
