@@ -1,5 +1,53 @@
 # 100 Days Of Code - Log
 
+### Day 78: March 19th, 2017
+
+**Today's Progress:**
+
+   Continued working on Ch 13 of the Hartl tutorial.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Continued getting those Microposts setup. Worked on the views for creating them and will start to break up the home page view with some partials.
+
+--------
+
+### Day 77: March 18th, 2017
+
+**Today's Progress:**
+
+   Continued working on Ch 13 of the Hartl tutorial.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Still working through the mircropost section. Played around a little with the Faker gem and I didn't realize how much cool stuff was in there. There is even some Lord of the Rings related methods for faking data. Super cool.
+
+--------
+
+### Day 76: March 17th, 2017
+
+**Today's Progress:**
+
+   Continued working on Ch 13 of the Hartl tutorial.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Started building out how the app will work with Microposts. 
+
+--------
+
 ### Day 75: March 16th, 2017
 
 **Today's Progress:**
