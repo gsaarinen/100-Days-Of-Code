@@ -13,19 +13,17 @@
 **Thoughts:**
 
    Continued getting those Microposts setup. Got to the point where I now am writing tests and I again ran into some issues with getting an integration test passing. I'll have to look into the errors more because they don't seem to be an issue with my syntax of the test.
-   ```
+  ```
    ERROR["test_micropost_interface", MicropostsInterfaceTest, 2.36966983997263]
  test_micropost_interface#MicropostsInterfaceTest (2.37s)
 ActionView::Template::Error:         ActionView::Template::Error: Missing partial microposts/_logged_in_home, application/_logged_in_home with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
           * "/home/ubuntu/workspace/sample_app/app/views"
 
-            app/views/static_pages/home.html.erb:2:in `_app_views_static_pages_home_html_erb__3612120291620548183_75092440'
-            app/controllers/microposts_controller.rb:12:in `create'
-            test/integration/microposts_interface_test.rb:15:in `block (2 levels) in <class:MicropostsInterfaceTest>'
-            test/integration/microposts_interface_test.rb:14:in `block in <class:MicropostsInterfaceTest>
-
-
-    ```        
+            app/views/static_pages/home.html.erb:2:in _app_views_static_pages_home_html_erb__3612120291620548183_75092440'
+            app/controllers/microposts_controller.rb:12:in create'
+            test/integration/microposts_interface_test.rb:15:in block (2 levels) in <class:MicropostsInterfaceTest>'
+            test/integration/microposts_interface_test.rb:14:in block in <class:MicropostsInterfaceTest>
+    ```
 
 --------
 
