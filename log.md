@@ -22,7 +22,7 @@ ActionView::Template::Error:         ActionView::Template::Error: Missing partia
             app/views/static_pages/home.html.erb:2:in `_app_views_static_pages_home_html_erb__3612120291620548183_75092440'
             app/controllers/microposts_controller.rb:12:in `create'
             test/integration/microposts_interface_test.rb:15:in `block (2 levels) in <class:MicropostsInterfaceTest>'
-            test/integration/microposts_interface_test.rb:14:in `block in <class:MicropostsInterfaceTest>'
+            test/integration/microposts_interface_test.rb:14:in `block in <class:MicropostsInterfaceTest>
     ```        
 
 --------
