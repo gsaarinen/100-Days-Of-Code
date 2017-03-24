@@ -1,5 +1,42 @@
 # 100 Days Of Code - Log
 
+### Day 82: March 23rd, 2017
+
+**Today's Progress:**
+
+   FINISHED on Ch 13 of the Hartl tutorial. [It's alive and you can sign up!](https://radiant-stream-44428.herokuapp.com/)
+
+**Time Logged:**
+
+   2.5
+
+**Thoughts:**
+
+   Fully implemented the mircroposts aspect and have it fully rolled out to Heroku. One small issue with my seed data is that there is a lot of it - like a lot. For some reason when I ran the script in the fixtures file it didn't create 50 posts per user, it created 4,950 ... per user. Not that it's a big deal but it just took a while after I ran `heroku rails db:seed`.
+
+   The biggest technical hurdle was getting the Amazon Web Services stuff configured which was my first introduction to it as well. This was set to be quite a stretch of my technical sophistication as stated even by Hartl. I luckily was able to find this [Stackoverflow post](http://stackoverflow.com/questions/28465206/how-to-grant-permissions-to-aws-user-for-hartls-rails-tutorial) that helped prep me with what I need to do and alleviated some of the initial frustration. I "somewhat" understand what I setup with AWS but not thoroughly. Would be best to revist this with someone who has a better understanding at some point to help explain what a bucket is and why it's needed on the app. I assume it has to do with cloud storage for file uploads and what not.  
+
+--------
+
+
+### Day 81: March 22nd, 2017
+
+**Today's Progress:**
+
+   Continued working on Ch 13 of the Hartl tutorial.
+
+**Time Logged:**
+
+   1.75
+
+**Thoughts:**
+
+   Was able to get the test issues figured out from the previous night. Also, was presented with some less straightforward test writing and was able to figure it out pretty easily looking at previous examples and knowing where to look at other code I have written. Felt good to quickly move on from the initial struggle.
+
+
+--------
+
+
 ### Day 80: March 21st, 2017
 
 **Today's Progress:**
@@ -13,7 +50,7 @@
 **Thoughts:**
 
    Continued getting those Microposts setup. Got to the point where I now am writing tests and I again ran into some issues with getting an integration test passing. I'll have to look into the errors more because they don't seem to be an issue with my syntax of the test.
-  
+
 
 
 
