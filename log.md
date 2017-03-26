@@ -1,5 +1,54 @@
 # 100 Days Of Code - Log
 
+### Day 85: March 26th, 2017
+
+**Today's Progress:**
+
+   Continued working through Ch 14 of the Rails tut. The data modeling stuff isn't so hard to grasp at this point but definitely complex.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   Nothing crazy to report but yup still working through this bad boy so I can get it finished up. 
+
+--------
+
+### Day 84: March 25th, 2017
+
+**Today's Progress:**
+
+   Continued working on Ch 14 of the Rails tut but more importantly went to [Minnebar](http://minnestar.org/minnebar/) today!
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   I can't say enough how great an experience Minnebar was. Such an awesome, welcoming, and informative community. I learned a lot about the new CSS Grid layout method. This seems like it will make creating a responsive site without relying on Bootstrap much much easier. The speaker, Tim Smith, was great, knowledgeable, and super friendly after the session. I'm going to see if I can play around with CSS grid on [my personal site](http://garretsaarinen.com) soon.
+
+--------
+
+### Day 83: March 24th, 2017
+
+**Today's Progress:**
+
+   Started the final chapter (14) of the Hartl Rails Tutorial - Following Users.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   This chapter, as even stated by the author, is going to have some harder concepts to understand especially around data modeling. So far it hasn't been too out of reach though as I have been exposed to this a lot at work with various projects and reporting.
+
+--------
+
+
 ### Day 82: March 23rd, 2017
 
 **Today's Progress:**
