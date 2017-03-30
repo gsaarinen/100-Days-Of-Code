@@ -1,5 +1,64 @@
 # 100 Days Of Code - Log
 
+### Day 88: March 29th, 2017
+
+**Today's Progress:**
+
+   Worked on some of the Treehouse Ruby Modules lessons and then a little DevTips front end jazz.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Long day today with the kids field trip so I was pretty tired - hard to take in a lot of new info. One thing that was covered in the Treehouse training was the difference between `extend` and `include` for modules. It seems that `include` just allows you to use the modules methods on any instance of the class but `extend` only extends the methods to the class itself. I'll have to confirm but that's how I understand it. 
+
+--------
+
+### Day 87: March 28th, 2017
+
+**Today's Progress:**
+
+   Circled back to the Hartl tut to keep moving forward on the following users feature.
+
+**Time Logged:**
+
+   2
+
+**Thoughts:**
+
+   Web interface is done now for following/unfollowing users and works well. Also finished the partial for displaying all the users that a selected user follows and how many followers they have.
+
+--------
+
+### Day 86: March 27th, 2017
+
+**Today's Progress:**
+
+   I was feeling a little lagging in my Ruby so I went back to Treehouse tonight and started going over `Modules` and how they work.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Again, I really like how Ruby is set up and some of the advanced stuff (at least for me right now) seems to be with-in grasp. One area that seems like I should *really* get a handle on is the `Enumerable Module`. I have already seen a lot of these methods in the Hartl tutorial but I don't recall ever seeing something like:
+   ```Ruby
+   class SomeClass
+     include Enumerable
+
+     attr_accessor :thing_one, :thing_two
+
+     # Code to follow...
+
+   ```
+   ...which makes me curious if there is some sort of Rails "magic" at play that already has something setup to have that module included. I'll have to look into that one.
+
+--------
+
+
 ### Day 85: March 26th, 2017
 
 **Today's Progress:**
@@ -12,7 +71,7 @@
 
 **Thoughts:**
 
-   Nothing crazy to report but yup still working through this bad boy so I can get it finished up. 
+   Nothing crazy to report but yup still working through this bad boy so I can get it finished up.
 
 --------
 
