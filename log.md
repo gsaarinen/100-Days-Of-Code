@@ -1,5 +1,77 @@
 # 100 Days Of Code - Log
 
+### Day 92: April 2nd, 2017
+
+**Today's Progress:**
+
+   Aaaaaaaaaand that's a WRAP on the Michael Hartl - Ruby on Rails tutorial!!! Finished up the last chapter today.
+
+**Time Logged:**
+
+   1.5
+
+**Thoughts:**
+
+   It kind of feels weird that I'm done 😳.
+
+   I have spent soooo much time on this tutorial and it's definitely surreal that I'm done with it. I want to write up a full blog post on it to really summarize what I have learned and how well this tutorial layed out how a Rails app is setup.
+
+**Link to Work:***
+
+   [Sample App!](https://radiant-stream-44428.herokuapp.com/)   
+
+--------
+
+### Day 91: April 1st, 2017
+
+**Today's Progress:**
+
+   Still plowing through Ch 14 of the Hartl tut. Close close close!
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Got the feed working today! Cool to see the last few pieces come together.
+
+--------
+
+### Day 90: March 31st, 2017
+
+**Today's Progress:**
+
+   A little Rails tut and then got to work with a co-worker (Matt D.) on writing some integration tests at work in the QC environment on one of our main applications at work.
+
+**Time Logged:**
+
+   2.25
+
+**Thoughts:**
+
+   During lunch I started to dive into how the Hartl tut showed how AJAX is used for some requests so the page doesn't have to refresh - which was interesting. Also, was pretty excited to be able to see how our actually dev team writes integration tests. I got to work with Matt on that for about 1.5 hours and while we didn't get to fully complete one, I was able to get really close and completely understood how the test was written. He gave me some good feedback on how I was able to really understand what was going on and was impressed with it: definitely encouraging to hear!
+
+--------
+
+
+### Day 89: March 30th, 2017
+
+**Today's Progress:**
+
+   Just continuing this Hartl Rails tut. Getting suuuuuper close to finishing.
+
+**Time Logged:**
+
+   2.25
+
+**Thoughts:**
+
+   Really getting the hang of writing some of these test as one of the exercises was to just write an integration test without a lot of setup and I was able to do it on the first try. What WHAT!
+
+--------
+
+
 ### Day 88: March 29th, 2017
 
 **Today's Progress:**
@@ -12,7 +84,7 @@
 
 **Thoughts:**
 
-   Long day today with the kids field trip so I was pretty tired - hard to take in a lot of new info. One thing that was covered in the Treehouse training was the difference between `extend` and `include` for modules. It seems that `include` just allows you to use the modules methods on any instance of the class but `extend` only extends the methods to the class itself. I'll have to confirm but that's how I understand it. 
+   Long day today with the kids field trip so I was pretty tired - hard to take in a lot of new info. One thing that was covered in the Treehouse training was the difference between `extend` and `include` for modules. It seems that `include` just allows you to use the modules methods on any instance of the class but `extend` only extends the methods to the class itself. I'll have to confirm but that's how I understand it.
 
 --------
 
@@ -1223,7 +1295,7 @@
    Hello, Bob
    => nil
    irb(main):025:0> u.hello
-   NameError: undefined local variable or method `surname' for #<User:0x29cbfb0 @name="Bob">
+   NameError: undefined local variable or method surname for #<User:0x29cbfb0 @name="Bob">
    ```
    This was big.
 
