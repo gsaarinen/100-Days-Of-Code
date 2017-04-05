@@ -1,5 +1,43 @@
 # 100 Days Of Code - Log
 
+### Day 93: April 3rd, 2017
+
+**Today's Progress:**
+
+   Re-focusing my time on my personal site to hopefully get it up and running soon (ideally by the 100th day of code).
+
+**Time Logged:**
+
+   1.75
+
+**Thoughts:**
+
+   I learned a very important lesson today about how CSS actually handles cascading and inheritance. I already know that I have too many CSS files being that I have full blown bootstrap in my project as well as a lot of custom partials but I kept running into issues where the bootstrap styling was overriding my custom css (although not all the time). What I found was that in my main `.scss` file where I was handling all my `@imports` I had bootstrap near the bottom which was the reason I was losing my custom styling.
+
+   Essentially this...
+
+   ```CSS
+   @import "custom";
+   @import "pre-header";
+   @import "header";
+   @import "work";
+   @import "bootstrap";   
+   @import "footer";
+   ```
+   Should of been this...
+   ```CSS
+   @import "bootstrap";
+   @import "custom";
+   @import "pre-header";
+   @import "header";
+   @import "work";
+   @import "footer";
+   ```
+
+   ![alt text](https://media.giphy.com/media/3og0IMJcSI8p6hYQXS/giphy.gif "The more you know")
+
+--------
+
 ### Day 92: April 2nd, 2017
 
 **Today's Progress:**
