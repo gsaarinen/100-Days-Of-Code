@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 95: April 5th, 2017
+
+**Today's Progress:**
+
+   Did something totally new today - dove into the [Rspotify ruby gem documentation](http://www.rubydoc.info/github/guilhermesad/rspotify/master/) in the hopes to resurrect my Spotify app idea!
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   This was seriously a lot of fun. I primarily played around with it in `irb` but did actually setup the beginnings of a small app. Since I'm building it from scratch I ran into problems regarding the best way to store ENV variables. I have loked at [Figaro gem](https://github.com/laserlemon/figaro) but decided to go with the [dotenv gem](https://github.com/bkeepers/dotenv) as I have seen in use more frequently.
+
+   It was super cool just playing around with all the data that is available through the Spotify API and how to access it with certain methods. I had no idea that level of information was available which makes me wonder why I haven't seen any cool apps use it. The documentation seems a little hard to follow and I'm finding that being able to read and understand documentation is a skill unto itself. 
+
+--------
+
+### Day 94: April 4th, 2017
+
+**Today's Progress:**
+
+   Worked on Ruby modules again at Treehouse.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Still just chipping away at getting my Ruby knowledge up to snuff.
+
+--------
+
 ### Day 93: April 3rd, 2017
 
 **Today's Progress:**
