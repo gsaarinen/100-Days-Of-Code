@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+--------
+
 ### Day 97: April 7th, 2017
 
 **Today's Progress:**
@@ -16,7 +18,8 @@
 
    The issue I ran into when trying to create a playlist is that I need to send in some additional attributes when the request goes in. Specifically, I need to make sure that `playlist-modify-public` and `playlist-modify-private` are set to true. I'm not exactly sure how to do this in an IRB session as there isn't a lot of documentation around it other than -
 
-   ```This method is only available when the current user has granted access to the playlist-modify-public and playlist-modify-private scopes.
+   ```
+   This method is only available when the current user has granted access to the playlist-modify-public and playlist-modify-private scopes.
    ```
    I have looked at the Spotify documentation around scoping but still coming up short. I'll see if I can crack it this weekend.
 
