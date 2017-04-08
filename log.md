@@ -1,5 +1,46 @@
 # 100 Days Of Code - Log
 
+### Day 97: April 7th, 2017
+
+**Today's Progress:**
+
+   Dove more into the RSpotify ruby gem and looked into a lot more of the documentation. Focused on authenticating with my credentials and tried to make a playlist.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   I was able to successfully "log in" with during an IRB session with my Spotify Client ID and Secret which allowed me to pull details from my own user profile. This was pretty cool and the first step in being actually being able to create a playlist from this gem.
+
+   The issue I ran into when trying to create a playlist is that I need to send in some additional attributes when the request goes in. Specifically, I need to make sure that `playlist-modify-public` and `playlist-modify-private` are set to true. I'm not exactly sure how to do this in an IRB session as there isn't a lot of documentation around it other than -
+
+   ```This method is only available when the current user has granted access to the playlist-modify-public and playlist-modify-private scopes.
+   ```
+   I have looked at the Spotify documentation around scoping but still coming up short. I'll see if I can crack it this weekend.
+
+
+
+--------
+
+### Day 96: April 6th, 2017
+
+**Today's Progress:**
+
+   More time in Treehouse going over Modules in Ruby.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Nothing crazy new to report.
+
+--------
+
+
 ### Day 95: April 5th, 2017
 
 **Today's Progress:**
@@ -14,7 +55,7 @@
 
    This was seriously a lot of fun. I primarily played around with it in `irb` but did actually setup the beginnings of a small app. Since I'm building it from scratch I ran into problems regarding the best way to store ENV variables. I have loked at [Figaro gem](https://github.com/laserlemon/figaro) but decided to go with the [dotenv gem](https://github.com/bkeepers/dotenv) as I have seen in use more frequently.
 
-   It was super cool just playing around with all the data that is available through the Spotify API and how to access it with certain methods. I had no idea that level of information was available which makes me wonder why I haven't seen any cool apps use it. The documentation seems a little hard to follow and I'm finding that being able to read and understand documentation is a skill unto itself. 
+   It was super cool just playing around with all the data that is available through the Spotify API and how to access it with certain methods. I had no idea that level of information was available which makes me wonder why I haven't seen any cool apps use it. The documentation seems a little hard to follow and I'm finding that being able to read and understand documentation is a skill unto itself.
 
 --------
 
