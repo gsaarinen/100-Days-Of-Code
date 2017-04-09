@@ -2,6 +2,23 @@
 
 --------
 
+### Day 98: April 7th, 2017
+
+**Today's Progress:**
+
+   Continued to churn through more ruby module tutorials on Treehouse.
+
+**Time Logged:**
+
+   1
+
+**Thoughts:**
+
+   Finished up finally the Modules section and I can see these patterns in lots of ruby code I have looked at previously. Makes sense to group a lot of functionality together so they can be applied (extended or included) into other classes.
+
+--------
+
+
 ### Day 97: April 7th, 2017
 
 **Today's Progress:**
