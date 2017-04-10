@@ -2,7 +2,25 @@
 
 --------
 
-### Day 98: April 7th, 2017
+### Day 99: April 9th, 2017
+
+**Today's Progress:**
+
+   Day 99 woot woot!!
+   Updated my personal site. Got some new sections updated and will work on deploying my new branch to GH-Pages.
+
+**Time Logged:**
+
+   1.75
+
+**Thoughts:**
+
+   Today was mostly about getting some of the "still in progress" sections pulled out and refactoring some of the Sass stuff. I really tried to get my jQuery bounce animation going on the pointer of the main page but no such luck. I was able to find out that it appears to be an issue with the function I was using being outdated on the latest version of jQuery that I was pulling down so I'll have to look into that.
+
+--------
+
+
+### Day 98: April 8th, 2017
 
 **Today's Progress:**
 
