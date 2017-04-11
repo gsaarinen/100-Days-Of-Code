@@ -2,6 +2,22 @@
 
 --------
 
+### Day 100: April 10th, 2017
+
+**Today's Progress:**
+
+   It's here! Day 100!!!
+
+**Time Logged:**
+
+   3.5
+
+**Thoughts:**
+
+   Today was really focused on summarizing everything that I have learned and built on this last 100 days in my [blog post](https://medium.com/@garret_s/what-i-learned-after-completing-my-first-100daysofcode-ef85799a2212). I seriously can't believe that I made it 100 days straight. I feel pretty damn accomplished right now. 
+
+--------
+
 ### Day 99: April 9th, 2017
 
 **Today's Progress:**
