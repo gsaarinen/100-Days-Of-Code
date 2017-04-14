@@ -1,6 +1,38 @@
 # 100 Days Of Code - Log
 
+
+### Day 102: April 12th, 2017
+
+**Today's Progress:**
+
+   Continued working on Treehouse's track about Core Ruby and writing to files use the `File` class.
+
+**Time Logged:**
+
+   1.25
+
+**Thoughts:**
+
+   Writing to files using the `Marshal` class to "save" data seems pretty cool
+
 --------
+
+### Day 101: April 11th, 2017
+
+**Today's Progress:**
+
+  Started a new section on what's included with Core Ruby and the Ruby Standard Library.
+
+**Time Logged:**
+
+   .75
+
+**Thoughts:**
+
+   Documentation specific and what modules are included in the core install.
+
+--------
+
 
 ### Day 100: April 10th, 2017
 
@@ -14,7 +46,7 @@
 
 **Thoughts:**
 
-   Today was really focused on summarizing everything that I have learned and built on this last 100 days in my [blog post](https://medium.com/@garret_s/what-i-learned-after-completing-my-first-100daysofcode-ef85799a2212). I seriously can't believe that I made it 100 days straight. I feel pretty damn accomplished right now. 
+   Today was really focused on summarizing everything that I have learned and built on this last 100 days in my [blog post](https://medium.com/@garret_s/what-i-learned-after-completing-my-first-100daysofcode-ef85799a2212). I seriously can't believe that I made it 100 days straight. I feel pretty damn accomplished right now.
 
 --------
 
